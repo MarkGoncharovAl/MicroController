@@ -21,7 +21,7 @@ Research supervisor: candidate of technical sciences Donov Gennady Innokentievic
 The scheme of the Measuring device (MD) is a follows:
 ```
 ```
-![MD Scheme](https://github.com/MarkGoncharovAl/MicroController/tree/master/images/1.jpg)
+![MD Scheme](https://github.com/MarkGoncharovAl/MicroController/tree/master/images/1.png)
 ```
 ```
 It consist of 3 main parts:
@@ -45,7 +45,7 @@ Disthemeasureddistance,andRisthepropagationvelocity(Rate)inair(speedofsound)andT
 In this applicationTis devided by 2 asTis double the time value from transmitter to object back to receiver.
 
 ```
-![HC­SR04 views](https://github.com/MarkGoncharovAl/MicroController/tree/master/images/2.jpg)
+![HC­SR04 views](https://github.com/MarkGoncharovAl/MicroController/tree/master/images/2.png)
 ```
 ```
 Pin Symbol Pin Function Description
@@ -69,8 +69,8 @@ We translate information from MC to PC using TTL. Our Information transfer proto
 
 
 ```
-![](https://github.com/MarkGoncharovAl/MicroController/tree/master/images/3.jpg)
-![Our layout board](https://github.com/MarkGoncharovAl/MicroController/tree/master/images/4.jpg)
+![](https://github.com/MarkGoncharovAl/MicroController/tree/master/images/3.png)
+![Our layout board](https://github.com/MarkGoncharovAl/MicroController/tree/master/images/4.png)
 ```
 3. **Clone** this repository: https://github.com/MarkGoncharovAl/MicroController.com
 4. Open the terminal inside downloaded folder
