@@ -17,15 +17,13 @@ Research supervisor: candidate of technical sciences Donov Gennady Innokentievic
 ```
 ## 2 Project scheme
 
-```
+
 The scheme of the Measuring device (MD) is a follows:
-```
-```
 ![MD Scheme](https://github.com/MarkGoncharovAl/MicroController/tree/master/images/1.png)
-```
-```
+
+
 It consist of 3 main parts:
-```
+
 1. Atmega 8535 ­ Microcontroller unit ­ will be called MC
 
 
@@ -44,16 +42,17 @@ The formula is expressed as:D=C·Twhich is know as the time/rate/distance measur
 Disthemeasureddistance,andRisthepropagationvelocity(Rate)inair(speedofsound)andTrepresentstime.
 In this applicationTis devided by 2 asTis double the time value from transmitter to object back to receiver.
 
-```
+
 ![HC­SR04 views](https://github.com/MarkGoncharovAl/MicroController/tree/master/images/2.png)
-```
-```
+
+
 Pin Symbol Pin Function Description
 1 VCC 5V power supply
 2 Trig Trigger Input pin
 3 Echo Receiver Output pin
 4 GND Power ground
-```
+
+
 ## 4 Using of HC­SR
 
 Our aim was to create enough pulse in the (UWD).
@@ -68,10 +67,10 @@ We translate information from MC to PC using TTL. Our Information transfer proto
 2. **Assemble the installation** according to scheme above.
 
 
-```
 ![](https://github.com/MarkGoncharovAl/MicroController/tree/master/images/3.png)
 ![Our layout board](https://github.com/MarkGoncharovAl/MicroController/tree/master/images/4.png)
-```
+
+
 3. **Clone** this repository: https://github.com/MarkGoncharovAl/MicroController.com
 4. Open the terminal inside downloaded folder
 5. Install **AVR­instruments**.
