@@ -1,6 +1,8 @@
 # Measuring distance on ATmega8535
 
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Mark Goncharov, Ruslan Zaripov, Batarin Egor
+```css
+<span style="color:DarkOliveGreen"> Mark Goncharov, Ruslan Zaripov, Batarin Egor </span>
+```
 
 ## Introduction
 
