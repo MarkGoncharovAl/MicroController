@@ -18,7 +18,7 @@ Research supervisor: candidate of technical sciences Donov Gennady Innokentievic
 The scheme of the Measuring device (MD) is a follows:
 
 ![MD Scheme](images/2.png)
-![Our layout board](images/4.png)
+![Our layout board](images/3.png)
 
 It consist of 4 main parts:
 
