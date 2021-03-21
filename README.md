@@ -1,7 +1,8 @@
 # Distance measurer on ATmega8535
 
-<span style="color:DarkOliveGreen"> Mark Goncharov, Ruslan Zaripov, Batarin Egor </span>
-
+```diff
++ Mark Goncharov, Ruslan Zaripov, Batarin Egor
+```
 ## Introduction
 
 This article is about Ultrasonic Sensor HC–SR04. We will explain how it works and present project example. We provide a schematic diagram on how to wire the ultrasonic sensor, and code for AVR.
@@ -15,7 +16,7 @@ Research supervisor: candidate of technical sciences Donov Gennady Innokentievic
 ## Project scheme
 
 
-The scheme of the Measuring device (MD) is a follows:
+The scheme of the measuring device is a follows:
 
 ![MD Scheme](images/2.png)
 ![Our layout board](images/3.png)
