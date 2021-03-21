@@ -67,8 +67,8 @@ We translate information from MC to PC using TTL. Our Information transfer proto
 2. **Assemble the installation** according to scheme above.
 
 
-![](https://github.com/MarkGoncharovAl/MicroController/tree/master/images/3.png)
-![Our layout board](https://github.com/MarkGoncharovAl/MicroController/tree/master/images/4.png)
+![](images/3.png)
+![]Our layout board](https://github.com/MarkGoncharovAl/MicroController/tree/master/images/4.png)
 
 
 3. **Clone** this repository: https://github.com/MarkGoncharovAl/MicroController.com
