@@ -1,6 +1,6 @@
-# Distance measurer on ATmega8535
+# Measuring distance on ATmega8535
 
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `Mark Goncharov, Ruslan Zaripov, Batarin Egor`
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Mark Goncharov, Ruslan Zaripov, Batarin Egor
 
 ## Introduction
 
