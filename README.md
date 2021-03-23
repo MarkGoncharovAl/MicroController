@@ -62,6 +62,6 @@ In order to generate the ultrasound we need to set the Trigger Pin on a High Sta
 For example, if the object is 20 cm away from the sensor, and the speed of the sound is 340 m/s or 0.034 cm/µs the sound wave will need to travel about 588 microseconds. But what you will get from the Echo pin will be double that number because the sound wave needs to travel forward and bounce backward. So in order to get the distance in cm we need to multiply the received travel time value from the echo pin by 0.034 and divide it by 2.
 
 ![HC-SR04 views](images/formulo.png)
-
+![Cutecom](images/Cutecom.png)
 -------------------------------------
 ### 2021
