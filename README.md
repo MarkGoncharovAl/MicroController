@@ -1,7 +1,10 @@
 # Measuring distance on ATmega8535
 
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/MarkGoncharovAl/MicroController?style=for-the-badge">
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/MarkGoncharovAl/MicroController?style=for-the-badge"> 
 
-<p style='color:red'> Mark Goncharov, Ruslan Zaripov, Batarin Egor </p>
+
+<p style='color:red'> Batarin Egor, Goncharov Mark, Zaripov Ruslan </p>
 
 ## Introduction
 
@@ -30,9 +33,15 @@ It consist of 4 main parts:
 
 ## Project description
 
-When button is pressed, ATmega triggeres HC-SR04 to measure distance. Then distance is transfered to PC using UART protocol. Finally, we get data from serial terminal CuteCom. 
+The MD is powered by 5 volts.
 
-Led is connected to port PBO and used for debug. 
+When button is pressed, ATmega triggeres HC-SR04 to measure distance. Then distance is transfered to PC using UART protocol. Finally, using USB to TTL, we get data from serial terminal CuteCom. The distance is measured 2 times in a second. 
+
+Led is connected to port PBO and used for debug. It is blinking fastly when the button isn't pressed, and it is lighting permanently when the button is pressed.
+
+Two HC-SR04 are connected to PD6 via two resistors, which are used to synchronize data transmition from these modules to ATmega8535.
+
+
 
 ## HC-SR04 description
 
